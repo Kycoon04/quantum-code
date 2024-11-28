@@ -1,0 +1,3 @@
+# Superposition and entanglement example
+
+This code demonstrates a basic quantum circuit using PennyLane, showcasing key concepts in quantum computing. It creates a superposition state on one qubit using a Hadamard gate, entangles it with a second qubit using a CNOT gate, and applies rotations to explore state manipulation. Finally, it measures the probabilities of all possible outcomes in the computational basis, providing a simple yet powerful example of superposition, entanglement, and quantum state evolution.
